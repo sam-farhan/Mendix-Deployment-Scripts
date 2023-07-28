@@ -8,9 +8,9 @@ $Config = @{
     BranchName = "Test"
     # Test, Acceptance or Production.
     EnvironmentName = "Test"
-    # Mendix API Key. Profile -> Developer Settings -> API Keys.
-    MxToken = "ThisIsYourPersonalAccessToken"
     # Personal Access Token. Profile -> Developer Settings -> Personal Access Tokens.
+    MxToken = "ThisIsYourPersonalAccessToken"
+    # Mendix API Key. Profile -> Developer Settings -> API Keys.    
     MxApiKey = "aaaa-bbbb-cccc-dddd-eeeeeeee"
     # Obvious.
     MxUsername = "a.developer@finaps.nl"
